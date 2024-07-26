@@ -7,4 +7,4 @@
 
 # Gameplay
 
-<a href="https://youtu.be/Ov2Txgsgppo?si=aAf7US0TBiL7TZ_8">Youtube Gameplay</a>\
+<a href="https://youtu.be/Ov2Txgsgppo?si=aAf7US0TBiL7TZ_8">Youtube Gameplay</a>

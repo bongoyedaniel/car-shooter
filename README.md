@@ -3,7 +3,7 @@
 
 # Play
 ## itch.io
-<a href="https://bongoye.itch.io/car-shooter">Car Shooter by bongoye</a>
+<a href="https://bongoye.itch.io/car-shooter">Download</a>
 
 # Gameplay
 

@@ -3,5 +3,8 @@
 
 # Play
 ## itch.io
+<a href="https://bongoye.itch.io/car-shooter">Car Shooter by bongoye</a>
 
-<iframe src="https://itch.io/embed/2856670" width="552" height="167" frameborder="0"><a href="https://bongoye.itch.io/car-shooter">Car Shooter by bongoye</a></iframe>
+# Gameplay
+
+<a href="https://youtu.be/Ov2Txgsgppo?si=aAf7US0TBiL7TZ_8">Youtube Gameplay</a>\

@@ -2,8 +2,8 @@
  Shoot onto oncoming traffic with a tank
 
 # Play
-## itch.io
-<a href="https://bongoye.itch.io/car-shooter">Download</a>
+- ## itch.io
+- - <a href="https://bongoye.itch.io/car-shooter">Download</a>
 
 # Gameplay
 
